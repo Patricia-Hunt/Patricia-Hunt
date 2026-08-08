@@ -1,5 +1,5 @@
 <h1>Hi, I'm Patricia Hunt! <br/><a 
-href="https://www.linkedin.com/in/patriciahunt-/">Data Analyst</a>
+href="https://www.linkedin.com/in/patriciahunt-/">Business/Data Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
